@@ -16,7 +16,7 @@ section p {
   width: 800px;
   
 }
-div, h3 {
+div {
   float: left;
   text-align: center;
   width:25%;
